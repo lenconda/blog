@@ -9185,3 +9185,8 @@ body.okayNav-loaded {
     max-height: 200px;
   }
 }
+
+.main .content.thin {
+  max-width: 960px;
+  margin: 0 auto;
+}
