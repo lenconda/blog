@@ -78,23 +78,23 @@ tags:
 
 选择 Templates -> Production management -> Roadmap
 
-<img src="http://blog.lenconda.top/content/images/2021/03/Xnip2021-03-07_11-54-03.jpg" width="50%" />
+<img src="/images/2021/03/Xnip2021-03-07_11-54-03.jpg" width="50%" />
 
 编辑 Status，添加未开始、进行中、已完成、复习中、已掌握：
 
-![Xnip2021-03-07_11-57-28](http://blog.lenconda.top/content/images/2021/03/Xnip2021-03-07_11-57-28.jpg)
+![Xnip2021-03-07_11-57-28](/images/2021/03/Xnip2021-03-07_11-57-28.jpg)
 
 按照同样的方法，可以在 Type 字段中指定知识点的类型，例如：语言基础、语法特性应用、算法、数据结构、操作系统、计算机网络等等。此外，还可以指定完成的时间段，并增加 Calendar、List、Timeline 等模式以更全面地了解学习进度：
 
-![Xnip2021-03-07_12-01-39](http://blog.lenconda.top/content/images/2021/03/Xnip2021-03-07_12-01-39.jpg)
+![Xnip2021-03-07_12-01-39](/images/2021/03/Xnip2021-03-07_12-01-39.jpg)
 
 对于梳理知识，我建议可以边学边写，记录在某个平台上，便于随时巩固复习。我最初选择的是幕布，后来迁移到了语雀上。关于如何记录自己学习过程中的知识点和收获，我采用的是类似于幕布的格式：
 
-![Xnip2021-03-07_12-08-44](http://blog.lenconda.top/content/images/2021/03/Xnip2021-03-07_12-08-44.jpg)
+![Xnip2021-03-07_12-08-44](/images/2021/03/Xnip2021-03-07_12-08-44.jpg)
 
 它的好处是非常结构化，简洁直白，也可以转换成思维导图形式。建议在整理知识点时，不要大量复制博客上的文字，尽量自己理解，然后把自己对它的理解写下来。例子：
 
-![Xnip2021-03-07_12-10-26](http://blog.lenconda.top/content/images/2021/03/Xnip2021-03-07_12-10-26.jpg)
+![Xnip2021-03-07_12-10-26](/images/2021/03/Xnip2021-03-07_12-10-26.jpg)
 
 # 项目经验与表达
 
