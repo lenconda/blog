@@ -27,6 +27,7 @@
     "hexo-theme-landscape": "^0.0.3"
   },
   "devDependencies": {
+    "gitignore-parser": "^0.0.2",
     "md5-file": "^5.0.0"
   }
 }

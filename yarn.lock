@@ -847,6 +847,11 @@
     "fs-extra" "^8.1.0"
     "ftp" "^0.3.10"
 
+"gitignore-parser@^0.0.2":
+  "integrity" "sha512-X6mpqUv59uWLGD4n3hZ8Cu8KbF2PMWPSFYmxZjdkpm3yOU7hSUYnzTkZI1mcWqchphvqyuz3/BhgBR4E/JtkCg=="
+  "resolved" "https://registry.npmmirror.com/gitignore-parser/-/gitignore-parser-0.0.2.tgz"
+  "version" "0.0.2"
+
 "glob-parent@~5.1.2":
   "integrity" "sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow=="
   "resolved" "https://registry.npmmirror.com/glob-parent/-/glob-parent-5.1.2.tgz"
