@@ -126,11 +126,13 @@ img {
   border: 0;
 }
 
-.content img {
-  width: auto;
-  max-width: 560px;
-  border-radius: .3em;
-  border: .3em solid rgba(0, 0, 0, .2);
+@media (min-width: 768px) {
+  .content img {
+    width: auto;
+    max-width: 560px;
+    border-radius: .3em;
+    border: .3em solid rgba(0, 0, 0, .2);
+  }
 }
 
 svg:not(:root) {
