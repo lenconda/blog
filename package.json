@@ -5,8 +5,8 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "checksum": "node scripts/checksum.js",
-    "deploy": "node scripts/deploy.js",
+    "checksum": "node deploy-utils/checksum.js",
+    "deploy": "node deploy-utils/deploy.js",
     "server": "hexo server"
   },
   "hexo": {
