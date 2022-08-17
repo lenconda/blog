@@ -13,8 +13,6 @@ category: Monorepo
 
 ## 现代 Monorepo 工具库对比
 
-## 使用 Rush 优化 Monorepo 开发
-
 # 工作流
 
 ## 一种基于 Rush 的 Git 分支模型
