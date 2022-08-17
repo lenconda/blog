@@ -1407,6 +1407,11 @@
   "resolved" "https://registry.npmmirror.com/marked/-/marked-4.0.18.tgz"
   "version" "4.0.18"
 
+"md5-file@^5.0.0":
+  "integrity" "sha512-xbEFXCYVWrSx/gEKS1VPlg84h/4L20znVIulKw6kMfmBUAZNAnF00eczz9ICMl+/hjQGo5KSXRxbL/47X3rmMw=="
+  "resolved" "https://registry.npmmirror.com/md5-file/-/md5-file-5.0.0.tgz"
+  "version" "5.0.0"
+
 "merge-descriptors@^1.0.1":
   "integrity" "sha512-cCi6g3/Zr1iqQi6ySbseM1Xvooa98N0w31jzUYrXPX2xqObmFGHJ0tQ5u74H3mVh7wLouTseZyYIq39g8cNp1w=="
   "resolved" "https://registry.npmmirror.com/merge-descriptors/-/merge-descriptors-1.0.1.tgz"

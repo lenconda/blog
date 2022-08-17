@@ -5,7 +5,8 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "checksum": "node scripts/checksum.js",
+    "deploy": "node scripts/deploy.js",
     "server": "hexo server"
   },
   "hexo": {
@@ -24,5 +25,8 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^0.0.3"
+  },
+  "devDependencies": {
+    "md5-file": "^5.0.0"
   }
 }
