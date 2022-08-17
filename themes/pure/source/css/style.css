@@ -126,6 +126,13 @@ img {
   border: 0;
 }
 
+.content img {
+  width: auto;
+  max-width: 560px;
+  border-radius: .3em;
+  border: .3em solid rgba(0, 0, 0, .2);
+}
+
 svg:not(:root) {
   overflow: hidden;
 }
@@ -304,7 +311,7 @@ img {
 }
 
 .img-rounded {
-  border-radius: 6px;
+  border-radius: 16px;
 }
 
 .img-thumbnail {
